@@ -1,2 +1,2 @@
 # flask-webapp
-Простое приложение по работе с буквами, написанное при помощи фреймворка flask по книге Пола Бэрри "Изучаем программирование на Python".
+A simple web application written using the Flask framework and Paul Barry book "Head First Python"
